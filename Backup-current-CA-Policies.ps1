@@ -1,6 +1,4 @@
-﻿$clientID = "8cd73db6-956a-4e7e-8f9d-2e11b4e6267d"
-$Clientsecret = "Dim8Q~3nqMeoCJkdeAeSy1-ahfHDbWV6bXDqQbxv"
-$tenantID = "91f09566-a850-4fae-bbe1-29ad3804a2f6"
+
 
 #Connect to GRAPH API
 $tokenBody = @{
